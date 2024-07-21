@@ -52,9 +52,9 @@ export default {
       return{
         arm:'左臂',
         activeid:'1',
-        name:'XXX',
-        time:'XXXX年XX月XX日',
-        doctor:'XXX'
+        // name:'XXX',
+        // time:'XXXX年XX月XX日',
+        // doctor:'XXX'
       }
     },
     methods:{
